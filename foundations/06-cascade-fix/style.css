@@ -8,7 +8,6 @@ body{
 
 .para,
 .small-para, .child {
-  color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
 
@@ -18,8 +17,11 @@ body{
 
 .button {
   background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
   font-size: 20px;
+}
+
+.para, .small-para, .child, .button {
+  color: rgb(0, 0, 0);
 }
 
 .confirm {
