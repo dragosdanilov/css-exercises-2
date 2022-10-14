@@ -7,11 +7,11 @@ body{
 }
 
 .para,
-.small-para, .child {
+.small-para, .text.child {
   font-weight: 800;
 }
 
-.small-para, .child {
+.small-para, .text.child {
   font-size: 14px;
 }
 
@@ -20,7 +20,7 @@ body{
   font-size: 20px;
 }
 
-.para, .small-para, .child, .button, div.text {
+.para, .small-para, .text.child, .button, div.text {
   color: rgb(0, 0, 0);
 }
 
