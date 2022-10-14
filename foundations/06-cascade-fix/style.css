@@ -7,7 +7,7 @@ body{
 }
 
 .para,
-.small-para {
+.small-para, .child {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
@@ -27,11 +27,6 @@ body{
   color: white;
   font-weight: bold;
 } 
-
-.child {
-  color: rgb(0, 0, 0);
-  font-weight: 800;
-}
 
 div.text {
   color: rgb(0, 0, 0);
