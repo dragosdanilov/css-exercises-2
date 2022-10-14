@@ -20,7 +20,7 @@ body{
   font-size: 20px;
 }
 
-.para, .small-para, .child, .button {
+.para, .small-para, .child, .button, div.text {
   color: rgb(0, 0, 0);
 }
 
@@ -31,6 +31,5 @@ body{
 } 
 
 div.text {
-  color: rgb(0, 0, 0);
   font-weight: 100;
 }
