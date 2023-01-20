@@ -60,3 +60,10 @@ body {
   justify-content: space-between;
   margin-top: auto;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: auto;
+}
