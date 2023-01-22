@@ -59,6 +59,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin-top: auto;
+  background-color: #eeeeee;
 }
 
 .content {
