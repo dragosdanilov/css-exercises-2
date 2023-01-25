@@ -30,9 +30,9 @@ body {
 .header {
   display: flex;
   align-items: center;
-  padding-left: 10px;
-  font-weight: 1000;
-  font-size: 30px;
+  padding: 16px;
+  font-weight: 900;
+  font-size: 32px;
 }
 
 body {
