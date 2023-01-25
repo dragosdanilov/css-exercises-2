@@ -49,6 +49,20 @@ body {
   flex-shrink: 0;
 }
 
+.sidebar > ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding-left: 16px;
+  font-size: 24px;
+  gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
 .main-cont {
   display: flex;
   flex-direction: row;
@@ -70,5 +84,8 @@ body {
 }
 
 .footer {
+  display: flex;
   margin-top: auto;
+  justify-content: center;
+  align-items: center;
 }
